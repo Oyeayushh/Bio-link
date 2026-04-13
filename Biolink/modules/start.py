@@ -46,7 +46,7 @@ def get_start_caption(user):
 
 START_BUTTONS = InlineKeyboardMarkup([
     [InlineKeyboardButton("✙ ᴧᴅᴅ ᴍᴇ ᴛσ ʏσᴜʀ ᴄʜᴧᴛ ✙", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-    [InlineKeyboardButton("🟢 ʜєʟᴘ ᴧηᴅ ᴄσϻϻᴧηᴅ", callback_data="show_help", pay=True)],
+    [InlineKeyboardButton("🟢 ʜєʟᴘ ᴧηᴅ ᴄσϻϻᴧηᴅ", callback_data="show_help")],
     [
         InlineKeyboardButton("sυᴘᴘσʀᴛ", url="https://t.me/kanhaxduniya"),
         InlineKeyboardButton("υᴘᴅᴀᴛᴇ", url="https://t.me/about_kanhaa")
