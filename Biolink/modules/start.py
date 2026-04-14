@@ -10,11 +10,14 @@ from Biolink.helper.database import add_user, add_chat
 
 # ─── Random Start Images ───────────────────────────────────────────────────────
 START_IMAGES = [
-    "https://files.catbox.moe/3w9hpn.jpg",
-    "https://files.catbox.moe/ux6t07.jpg",
-    "https://files.catbox.moe/k46ikf.jpg",
-    "https://files.catbox.moe/9cqd3l.jpg",
-    "https://files.catbox.moe/yqe7lh.jpg",
+    "https://files.catbox.moe/v00l7e.jpg",
+    "https://files.catbox.moe/uow54p.jpg",
+    "https://files.catbox.moe/z0t6l3.jpg",
+    "https://files.catbox.moe/jdw0il.jpg",
+    "https://files.catbox.moe/izfi0y.jpg",
+    "https://files.catbox.moe/7wx3ha.jpg",
+    "https://files.catbox.moe/2u0srm.jpg",
+    "https://files.catbox.moe/tqwy0q.jpg",
 ]
 
 # ─── Animation Frames ──────────────────────────────────────────────────────────
